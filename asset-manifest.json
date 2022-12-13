@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://averand1.github.io/csb-eubhkd/static/css/main.9e6fb137.chunk.css",
+    "main.js": "https://averand1.github.io/csb-eubhkd/static/js/main.8c2e8805.chunk.js",
+    "main.js.map": "https://averand1.github.io/csb-eubhkd/static/js/main.8c2e8805.chunk.js.map",
+    "runtime-main.js": "https://averand1.github.io/csb-eubhkd/static/js/runtime-main.5f1cab03.js",
+    "runtime-main.js.map": "https://averand1.github.io/csb-eubhkd/static/js/runtime-main.5f1cab03.js.map",
+    "static/js/2.7e8286fe.chunk.js": "https://averand1.github.io/csb-eubhkd/static/js/2.7e8286fe.chunk.js",
+    "static/js/2.7e8286fe.chunk.js.map": "https://averand1.github.io/csb-eubhkd/static/js/2.7e8286fe.chunk.js.map",
+    "index.html": "https://averand1.github.io/csb-eubhkd/index.html",
+    "static/css/main.9e6fb137.chunk.css.map": "https://averand1.github.io/csb-eubhkd/static/css/main.9e6fb137.chunk.css.map",
+    "static/js/2.7e8286fe.chunk.js.LICENSE.txt": "https://averand1.github.io/csb-eubhkd/static/js/2.7e8286fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f1cab03.js",
+    "static/js/2.7e8286fe.chunk.js",
+    "static/css/main.9e6fb137.chunk.css",
+    "static/js/main.8c2e8805.chunk.js"
+  ]
+}
